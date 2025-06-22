@@ -13,13 +13,17 @@ Option to reset and play again
 Stylish retro design with responsive layout
 
 # 📁 Project Structure
-graphql
-Copy
-Edit
+
 project-root/
 │
+
+
 ├── index.html     # Main HTML structure of the game
+
+
 ├── style.css      # Styling using a retro pixel font and layout formatting
+
+
 └── script.js      # JavaScript logic handling game mechanics
 # 🚀 How to Run
 Download or clone this repository.
